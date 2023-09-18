@@ -1,0 +1,12 @@
+<resources>
+    <string name="titulo">Invest</string>
+    <string name="vlratual">Valor do investimento atual</string>
+    <string name="txtNro1">Qtd.Meses</string>
+    <string name="textView3">Taxa De Juros</string>
+    <string name="textView4">Valor do investimento mensal</string>
+    <string name="app_name">Invest</string>
+    <string name="button">Calcular</string>
+    <string name="button1">Limpar</string>
+    <string name="textView7">Capital futuro:</string>
+    <string name="limpar">Limpar</string>
+</resources>
